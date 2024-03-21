@@ -1,0 +1,64 @@
+Size: 1000
+Time for loop 1: 0.0029998 s
+Time for loop 2: 0.0033018 s
+The loop 1 is the winner
+
+Size: 2000
+Time for loop 1: 0.0120882 s
+Time for loop 2: 0.0276046 s
+The loop 1 is the winner
+
+Size: 3000
+Time for loop 1: 0.0265921 s
+Time for loop 2: 0.0471333 s
+The loop 1 is the winner
+
+Size: 4000
+Time for loop 1: 0.0471781 s
+Time for loop 2: 0.0867026 s
+The loop 1 is the winner
+
+Size: 5000
+Time for loop 1: 0.0732076 s
+Time for loop 2: 0.138842 s
+The loop 1 is the winner
+
+Size: 6000
+Time for loop 1: 0.105906 s
+Time for loop 2: 0.203319 s
+The loop 1 is the winner
+
+Size: 7000
+Time for loop 1: 0.147737 s
+Time for loop 2: 0.28977 s
+The loop 1 is the winner
+
+Size: 8000
+Time for loop 1: 0.188289 s
+Time for loop 2: 0.471309 s
+The loop 1 is the winner
+
+Size: 9000
+Time for loop 1: 0.240823 s
+Time for loop 2: 0.506272 s
+The loop 1 is the winner
+
+Size: 10000
+Time for loop 1: 0.296267 s
+Time for loop 2: 0.664494 s
+The loop 1 is the winner
+
+Size: 20000
+Time for loop 1: 1.5655 s
+Time for loop 2: 2.8187 s
+The loop 1 is the winner
+
+Size: 30000
+Time for loop 1: 4.73304 s
+Time for loop 2: 7.79636 s
+The loop 1 is the winner
+
+Size: 40000
+Time for loop 1: 10.3511 s
+Time for loop 2: 17.9068 s
+The loop 1 is the winner
